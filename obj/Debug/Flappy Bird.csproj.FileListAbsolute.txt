@@ -1,0 +1,15 @@
+C:\Users\admin\Pictures\DSA_WPF\Flappy Bird\Flappy Bird\bin\Debug\Flappy Bird.exe.config
+C:\Users\admin\Pictures\DSA_WPF\Flappy Bird\Flappy Bird\bin\Debug\Flappy Bird.exe
+C:\Users\admin\Pictures\DSA_WPF\Flappy Bird\Flappy Bird\bin\Debug\Flappy Bird.pdb
+C:\Users\admin\Pictures\DSA_WPF\Flappy Bird\Flappy Bird\obj\Debug\Flappy Bird.csproj.AssemblyReference.cache
+C:\Users\admin\Pictures\DSA_WPF\Flappy Bird\Flappy Bird\obj\Debug\MainWindow.g.cs
+C:\Users\admin\Pictures\DSA_WPF\Flappy Bird\Flappy Bird\obj\Debug\App.g.cs
+C:\Users\admin\Pictures\DSA_WPF\Flappy Bird\Flappy Bird\obj\Debug\Flappy Bird_MarkupCompile.cache
+C:\Users\admin\Pictures\DSA_WPF\Flappy Bird\Flappy Bird\obj\Debug\Flappy Bird_MarkupCompile.lref
+C:\Users\admin\Pictures\DSA_WPF\Flappy Bird\Flappy Bird\obj\Debug\MainWindow.baml
+C:\Users\admin\Pictures\DSA_WPF\Flappy Bird\Flappy Bird\obj\Debug\Flappy Bird.g.resources
+C:\Users\admin\Pictures\DSA_WPF\Flappy Bird\Flappy Bird\obj\Debug\Flappy_Bird.Properties.Resources.resources
+C:\Users\admin\Pictures\DSA_WPF\Flappy Bird\Flappy Bird\obj\Debug\Flappy Bird.csproj.GenerateResource.cache
+C:\Users\admin\Pictures\DSA_WPF\Flappy Bird\Flappy Bird\obj\Debug\Flappy Bird.csproj.CoreCompileInputs.cache
+C:\Users\admin\Pictures\DSA_WPF\Flappy Bird\Flappy Bird\obj\Debug\Flappy Bird.exe
+C:\Users\admin\Pictures\DSA_WPF\Flappy Bird\Flappy Bird\obj\Debug\Flappy Bird.pdb
